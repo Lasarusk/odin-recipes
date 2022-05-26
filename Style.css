@@ -1,0 +1,9 @@
+ * {
+    color:rgb(9, 225, 22);font-family: 'Times New Roman', Times, serif;font-size:medium;font-weight: center;background-color:hsla(189,100%,40%,89);
+  }
+.ordered
+ {color:rgb(255, 255, 255);}
+.important
+ {color:rgb(0, 128, 17);}
+.pamper li
+{color:rgba(253, 130, 130, 100%);font-size: xx-large;}
